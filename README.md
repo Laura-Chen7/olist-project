@@ -215,6 +215,3 @@ olist-project/
 │   ├── olist_dashboard.twbx
 │   ├── olist_dashboard.twx
 │   └── screenshots
-├── data/
-│   ├── raw/
-│   └── cleaned/
