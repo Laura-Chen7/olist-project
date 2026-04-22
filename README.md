@@ -3,6 +3,8 @@
 ## Project Overview
 This project analyzes Olist e-commerce data to identify operational drivers of business performance and customer satisfaction. The workflow combines **Python**, **PostgreSQL**, and **Tableau** to move from raw transactional data to business-ready dashboards.
 
+Dataset: https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce?resource=download
+
 The main goals of the project are to:
 - track revenue and order volume over time
 - evaluate how delivery performance affects customer reviews
